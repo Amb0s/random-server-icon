@@ -1,6 +1,0 @@
-name: RandomServerIcon
-description: Randomize your server icon.
-main: ambos.randomservericon.RandomServerIcon
-api-version: 1.15
-version: 1.0.0
-author: Ambos

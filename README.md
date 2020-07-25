@@ -1,4 +1,1 @@
-# RandomServerIcon
-
-## Credit
-[Original project page](https://dev.bukkit.org/projects/randomservericon)
+# Random Server Icon
